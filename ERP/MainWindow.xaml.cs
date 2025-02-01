@@ -42,6 +42,7 @@ namespace ERP
                     MessageBox.Show("Error: " + ex.Message, "Database Error", MessageBoxButton.OK, MessageBoxImage.Error);
                 }
             }
+
         }
     }
 }
