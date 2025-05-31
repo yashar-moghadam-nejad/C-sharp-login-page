@@ -8,8 +8,7 @@ A simple C# login page for educational or internal application use. This project
 
 - C# (.NET Framework or .NET Core)
 - Visual Studio (recommended)
-- [WinForms / WPF / ASP.NET] *(Choose the one you used)*
-
+- WinForms 
 ---
 
 ## 📦 Features
